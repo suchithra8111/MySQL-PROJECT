@@ -19,10 +19,10 @@ Membership Management: Manage membership status, renewal, and fees, if applicabl
 Borrower Records: Keep track of borrowing history and preferences for each member.
 Book Issuance and Returns.
 
-OVERVIEW
+**OVERVIEW
 The Library Management System project includes a database schema with tables for branches, employees, books, customers, issue status, and return status. These tables store information such as branch details, employee data, book information, customer records, and records of book issuances and returns. SQL queries are utilized to perform various operations within a library environment.
 
-QUERIES IMPLEMENTED
+**QUERIES IMPLEMENTED
 1.Retrieve book title, category, and rental price of available books.
 2.list employee names and salaries in descending order of salary.
 3.Retrieve book titles and corresponding customers who have issued those books.
@@ -34,11 +34,11 @@ QUERIES IMPLEMENTED
 9.Retrieve book titles containing "history".
 10.Retrieve branch numbers along with count of employees for branches having more than 5 employees.
 
-IMPLEMENTED TEN ADDITIONAL QUERIES.
+**IMPLEMENTED TEN ADDITIONAL QUERIES.
 
-CONTRIBUTIONS
+**CONTRIBUTIONS
 Contributions and feedback are welcome! If you have ideas, suggestions, or find bugs, please share. Your input helps improve this project for everyone.
 
-CONCLUSION
+**CONCLUSION
 In conclusion, the Library Management System efficiently organizes and manages library resources using MySQL and SQL queries. It handles book management, employee tracking, customer records, and transactions effectively. With its user-friendly interface and comprehensive features, it streamlines library operations and enhances user experience
 
